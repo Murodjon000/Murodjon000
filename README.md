@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Murodjon
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 <a href="https://www.linkedin.com/in/murodjon-tursunpulatov-5189481b3/">
   <img align="left" alt="Murodjon's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -39,7 +41,5 @@ Hi there, I'm **Murodjon Tursunpulatov**, a **Full Stack Developer student** ( s
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ⭐️ From [Murodjon](https://github.com/Murodjon000)
