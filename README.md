@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/murodjon-tursunpulatov-5189481b3/">
   <img align="left" alt="Murodjon's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/murodjontursunpulatov/">
-  <img align="left" alt="Murodjon's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://angel.co/u/murodjon-tursunpulatov">
+  <img align="left" alt="Murodjon's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />
 </a>
-<a href="https://www.facebook.com/murodjon.tursunpulatov/">
-  <img align="left" alt="Murodjon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://murodjon-tursunpulatov.medium.com/">
+  <img align="left" alt="Murodjon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br />
