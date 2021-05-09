@@ -41,4 +41,4 @@ Hi there, I'm **Murodjon Tursunpulatov**, a **Full Stack Developer** ( student a
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-⭐️ From [Murodjon](https://github.com/Murodjon000) 
+⭐️ From [Murodjon](https://github.com/Murodjon000)
