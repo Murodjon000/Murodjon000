@@ -31,6 +31,7 @@ Hi there, I'm **Murodjon Tursunpulatov**, a **Full Stack Developer** ( student a
 <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code>
 <code><img height="20" src="https://rubyonrails.org/images/rails-logo.svg"></code>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Node](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
