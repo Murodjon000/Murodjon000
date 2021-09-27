@@ -13,13 +13,13 @@
 <br />
 <br />
 
-Hi there, I'm **Murodjon Tursunpulatov**, a **Full Stack Developer** ( student at Microverse 🌍 ) 🚀 from Uzbekistan. Currently, I`m looking for new opportunities 👨🏽‍💻.
+Hi there, I'm **Murodjon Tursunpulatov**, a **Full Stack Developer**  🚀 from Uzbekistan. Currently, I`m looking working as a Fron-end Developer at Swapcard 👨🏽‍💻.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently student at Microverse;
+- 👨🏽‍💻 I studied at Microverse;
 - 🌱 I’m currently learning Full Stack Development;
 - 🤔 My interests are with Software Development, etc..;
 - 💬 Ask me about anything, I am happy to help;
