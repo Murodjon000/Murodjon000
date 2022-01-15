@@ -19,9 +19,9 @@ Hi there, I'm **Murod**, a passionate **Developer**  🚀 from Uzbekistan 🇺�
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am Front-end Engineer at Cartloop;
+- I am Front-end Engineer at @Cartloop 👨‍💻;
 - I like playing chess ♟️;
-- I am big fan of Football.
+- I am big fan of Football 🥅 .
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via murodjon.tursunpulatov@gmail.com to reach me.
 
